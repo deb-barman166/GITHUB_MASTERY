@@ -21,6 +21,3 @@ By starring this repository, you not only show support for the work put into it 
 We welcome contributions! Please check our guidelines for contributing and help us improve this project.
 
 Thank you for visiting! We hope you find the repository useful and can’t wait to see what you create!
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
